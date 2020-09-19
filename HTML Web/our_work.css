@@ -1,0 +1,180 @@
+/*
+	@name our_work
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 2691px; margin-left: auto; margin-right: auto;  }
+
+#_bg__our_work {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2691px;
+	background:rgba(255,255,255,255);
+}
+
+
+#our_work {
+	top: 160px;
+	left: 123px;
+	width: 478px;
+	height: 96px;
+	font-family: iCiel Gotham;
+	font-size: 80px;
+	text-align: left;
+	color:#303030;
+}
+
+
+#_3f_0_640x600 {
+	top: 280px !important;
+	position: absolute !important;
+	left: 123px;
+	width: 526px;
+	height: 493px;
+	background:url(skins/_3f_0_640x600.png);
+	background-size:cover;
+}
+
+
+#_26_submit_project_tonbui {
+	top: 280px !important;
+	position: absolute !important;
+	left: 1273px;
+	width: 528px;
+	height: 352px;
+	background:url(skins/_26_submit_project_tonbui.png);
+	background-size:cover;
+}
+
+
+#download {
+	top: 813px !important;
+	position: absolute !important;
+	left: 123px;
+	width: 526px;
+	height: 296px;
+	background:url(skins/download.png);
+	background-size:cover;
+}
+
+
+#packaging_design_2_1594957415 {
+	top: 278px !important;
+	position: absolute !important;
+	left: 699px;
+	width: 523px;
+	height: 707.5px;
+	background:url(skins/packaging_design_2_1594957415.png);
+	background-size:cover;
+}
+
+
+#vietnam_traditional_packaging_packaging_design_agency_vietnam_bratus_agency_to_nu_hang_trong_luxury_packaging_artdeco_packaging9 {
+	top: 1242px !important;
+	position: absolute !important;
+	left: 1273px;
+	width: 528px;
+	height: 341px;
+	background:url(skins/vietnam_traditional_packaging_packaging_design_agency_vietnam_bratus_agency_to_nu_hang_trong_luxury_packaging_artdeco_packaging9.png);
+	background-size:cover;
+}
+
+
+#_371ef4703a75fb0347c2a85b8946b1c1 {
+	top: 1035px !important;
+	position: absolute !important;
+	left: 699px;
+	width: 524px;
+	height: 262.5px;
+	background:url(skins/_371ef4703a75fb0347c2a85b8946b1c1.png);
+	background-size:cover;
+}
+
+
+#asset_4 {
+	top: 1149px !important;
+	position: absolute !important;
+	left: 123px;
+	width: 526px;
+	height: 526px;
+	background:url(skins/asset_4.png);
+	background-size:cover;
+}
+
+
+#tumblr_17539cef0a5c765a8ac1092128ce9adb_da2c8b10_500 {
+	top: 1633px !important;
+	position: absolute !important;
+	left: 1277px;
+	width: 524px;
+	height: 294.5px;
+	background:url(skins/tumblr_17539cef0a5c765a8ac1092128ce9adb_da2c8b10_500.png);
+	background-size:cover;
+}
+
+
+#tumblr_c18cb013ac34441959c7ca5b82209164_eb707b0b_500 {
+	top: 1977px !important;
+	position: absolute !important;
+	left: 1273px;
+	width: 528px;
+	height: 528px;
+	background:url(skins/tumblr_c18cb013ac34441959c7ca5b82209164_eb707b0b_500.png);
+	background-size:cover;
+}
+
+
+#tumblr_82fcdd126755acfe8fb21db4f73be977_098f3ea2_500 {
+	top: 1347px !important;
+	position: absolute !important;
+	left: 699px;
+	width: 524px;
+	height: 524px;
+	background:url(skins/tumblr_82fcdd126755acfe8fb21db4f73be977_098f3ea2_500.png);
+	background-size:cover;
+}
+
+
+#tumblr_97ca86cb8a2bf3f63a99f041afde1b0a_c1c2c8df_500 {
+	top: 1715px !important;
+	position: absolute !important;
+	left: 123px;
+	width: 526px;
+	height: 526px;
+	background:url(skins/tumblr_97ca86cb8a2bf3f63a99f041afde1b0a_c1c2c8df_500.png);
+	background-size:cover;
+}
+
+
+#tumblr_7230d42c0c39b0058dd2eee70d077cd2_445dee19_500 {
+	top: 682px !important;
+	position: absolute !important;
+	left: 1273px;
+	width: 528px;
+	height: 510.5px;
+	background:url(skins/tumblr_7230d42c0c39b0058dd2eee70d077cd2_445dee19_500.png);
+	background-size:cover;
+}
+
+
+#tumblr_fa198ef1a812265f21b653566447f18f_465e3b3e_500 {
+	top: 1921px !important;
+	position: absolute !important;
+	left: 710px;
+	width: 513px;
+	height: 407.5px;
+	background:url(skins/tumblr_fa198ef1a812265f21b653566447f18f_465e3b3e_500.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */

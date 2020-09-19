@@ -1,0 +1,51 @@
+/*
+	@name about_us
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 479px; margin-left: auto; margin-right: auto;  }
+
+#_bg__about_us {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 479px;
+	background:rgba(255,255,255,255);
+}
+
+
+#about_us {
+	top: 160px;
+	left: 120px;
+	width: 440px;
+	height: 96px;
+	font-family: iCiel Gotham;
+	font-size: 80px;
+	text-align: left;
+	color:#303030;
+}
+
+
+#postcards__logo__illustration__pattern__patchs__totebag__pin_s__books__branding__murals__objects__wallpaper__carpet__stickers__vinyls__clothes___ {
+	top: 280px;
+	left: 120px;
+	width: 1680px;
+	height: 147px;
+	overflow: hidden;
+	font-family: Franklin Gothic;
+	font-size: 38px;
+	text-align: left;
+	line-height: 38px;
+	color:#303030;
+}
+
+
+
+/* Add your custom CSS here */

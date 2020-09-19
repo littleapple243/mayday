@@ -1,0 +1,44 @@
+/*
+	@name landing_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 1080px; margin-left: auto; margin-right: auto;  }
+
+#_bg__landing_page {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#we_are_mayday__a_colorful_fun_messy_crazy_graphic_design_studio_working_on_motion__print__illustrations__design_and_stuff_from_paris_ {
+	top: 520px;
+	left: 80px;
+	width: 1760px;
+	height: 445.5px;
+	overflow: hidden;
+	font-family: iCiel Gotham;
+	font-size: 65px;
+	text-align: left;
+	line-height: 65px;
+	-ms-text-shadow:3px 5px 4px rgba(30,30,30,0.41);
+	-o-text-shadow:3px 5px 4px rgba(30,30,30,0.41);
+	-webkit-text-shadow:3px 5px 4px rgba(30,30,30,0.41);
+	-moz-text-shadow:3px 5px 4px rgba(30,30,30,0.41);
+	text-shadow:3px 5px 4px rgba(30,30,30,0.41);
+	color:#ffffff;
+}
+
+
+
+/* Add your custom CSS here */
